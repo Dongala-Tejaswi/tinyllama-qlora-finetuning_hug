@@ -1,0 +1,14 @@
+[
+    {
+        "instruction": "What is Machine Learning?",
+    "response": "Machine Learning is a subset of AI that learns patterns from data."
+    },
+    {
+      "instruction": "What is QLoRA?",
+       "response": "QLoRA is a parameter efficient fine tuning method that combines quantization and LoRA."
+    },
+    {
+    "instruction": "What is Hugging Face?",
+    "response": "Hugging Face provides transformers, datasets and model hosting."
+    }
+]

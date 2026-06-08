@@ -1,0 +1,12 @@
+qlora_env/
+output/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+mlruns/
+mlflow.db
+
+adapter/
+
+.env
