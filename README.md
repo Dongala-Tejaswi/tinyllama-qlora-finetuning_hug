@@ -32,14 +32,24 @@ https://huggingface.co/TejaswiDongala/tinyllama-qlora <img width="1920" height="
 
 ## requirements.txt ---
 torch
+
 transformers
+
 datasets
+
 accelerate
+
 peft
+
 trl
+
 bitsandbytes
+
 huggingface_hub
+
 sentencepiece
+
 protobuf
+
 safetensors
 gradio
