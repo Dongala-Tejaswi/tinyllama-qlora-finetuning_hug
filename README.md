@@ -30,3 +30,16 @@ Trainable %: 0.20%
 
 https://huggingface.co/TejaswiDongala/tinyllama-qlora <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/73381433-f623-42a2-9ab8-dead200e9779" />
 
+## requirements.txt ---
+torch
+transformers
+datasets
+accelerate
+peft
+trl
+bitsandbytes
+huggingface_hub
+sentencepiece
+protobuf
+safetensors
+gradio
